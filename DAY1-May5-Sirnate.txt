@@ -192,7 +192,7 @@ host 10.62.50.6 255.255.255.0
 client-identifier 10.62.1.4
 ip dhcp pool CAMERA8
 host 10.62.50.8 255.255.255.0
-client-identifier abcd.1234.cafb
+client-identifier 10.62.1.4
 end
 show ip dhcp binding
 
